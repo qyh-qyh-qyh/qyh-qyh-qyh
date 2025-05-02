@@ -22,3 +22,5 @@ Here are some ideas to get you started:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=qyh-qyh-qyh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qyh-qyh-qyh&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=qyh-qyh-qyh)](https://github.com/ryo-ma/github-profile-trophy)
