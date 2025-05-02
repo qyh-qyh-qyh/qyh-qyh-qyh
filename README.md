@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I’m currently studying at HITSZ
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qyh-qyh-qyh)](https://github.com/anuraghazra/github-readme-stats)
