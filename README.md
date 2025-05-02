@@ -24,5 +24,3 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qyh-qyh-qyh&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=qyh-qyh-qyh)](https://github.com/ryo-ma/github-profile-trophy)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=qyh-qyh-qyh.qyh-qyh-qyh&left_color=green&right_color=red)
